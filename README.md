@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I Am Shubham
+
+I have done Master of Science (MSc) specialised in Computer Science.
+
+
 
 <!--
 **shubhu3dev/shubhu3dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
